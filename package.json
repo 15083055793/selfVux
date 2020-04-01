@@ -1,6 +1,6 @@
 {
-  "name": "vuxh",
-  "version": "0.0.1",
+  "name": "vux",
+  "version": "99.99.0",
   "main": "index.js",
   "description": "Mobile web UI based on Vue and WeUI",
   "keywords": [
